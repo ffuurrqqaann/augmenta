@@ -14,4 +14,6 @@ Technologies used
 *******************
 
 1. PHP (For server side and Product API)
+	1.1 Code Igniter (provides MVC framework)
+2. MySQL
 2. Android (Using native java code)
