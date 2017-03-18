@@ -1,70 +1,17 @@
 ###################
-What is CodeIgniter
+Augmenta Demo Application
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+This is a Simple Application which consist of server side code that contains a simple crud functionality through which a user can create, update, delete and edit a product, Android client which shows a list of all the products and Prodcut API which the client uses to fetch and display the products.
+
+Server side application url is as follows:
+http://topmost-runways.000webhostapp.com/augmenta/index.php/products
+
+Using the above url, user can access the crud functionality i.e., Add, Edit, View and Delete the products. There is another folder in the root directory with the name "AugmentaDemoAndroid" which contains the android application client code.
 
 *******************
-Release Information
+Technologies used
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
-
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
-
-*******************
-Server Requirements
-*******************
-
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <https://webchat.freenode.net/?channels=%23codeigniter>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+1. PHP (For server side and Product API)
+2. Android (Using native java code)
