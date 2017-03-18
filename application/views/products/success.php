@@ -1,0 +1,1 @@
+<p>The product has been added successfully!</p>

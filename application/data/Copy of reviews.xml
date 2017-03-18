@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<profile>
+	<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		<product xsi:type="ProductWithReviews" locale="en_US">
+			<pageid>46418</pageid>
+			<name>Power Window Regulator (Regulator Only)</name>
+			<smallstarimagelocation>pwr/engine/images/stars_small.gif
+			</smallstarimagelocation>
+			<largestarimagelocation>pwr/engine/images/stars.gif
+			</largestarimagelocation>
+			<newestreviewdate>2016-12-31</newestreviewdate>
+			<oldestreviewdate>2010-08-06</oldestreviewdate>
+			<averageoverallrating>4</averageoverallrating>
+			<average_rating_decimal>4.1</average_rating_decimal>
+			<fullreviews>7</fullreviews>
+			<confirmstatusgroup>
+				<confirmstatus>Verified Purchaser</confirmstatus>
+				<confirmstatus>Verified Reviewer</confirmstatus>
+			</confirmstatusgroup>
+			<taggroup key="bestuses" name="Best Uses">
+				<tag isuseradded="true" count="1">2003 BMW 325i e46</tag>
+			</taggroup>
+			<taggroup key="carandtruck" name="Car &amp; Truck">
+				<tag isuseradded="false" count="1">Auto enthusiast</tag>
+				<tag isuseradded="false" count="2">Casual driver</tag>
+			</taggroup>
+			<taggroup key="describeyourself" name="Describe Yourself">
+				<tag isuseradded="false" count="2">Auto enthusiast</tag>
+			</taggroup>
+			<taggroup key="pros" name="Pros">
+				<tag isuseradded="true" count="1">Bolts right in</tag>
+				<tag isuseradded="false" count="1">Durable</tag>
+				<tag isuseradded="false" count="5">Easy to use</tag>
+				<tag isuseradded="true" count="1">Exact fit</tag>
+				<tag isuseradded="false" count="1">Lightweight</tag>
+				<tag isuseradded="true" count="1">Precise fit</tag>
+				<tag isuseradded="true" count="1">Replaced OEM perfectly</tag>
+			</taggroup>
+			<taggroup key="wasthisagift" name="Was this a gift?">
+				<tag isuseradded="false" count="4">No</tag>
+			</taggroup>
+			<bottom_line_yes_votes>6</bottom_line_yes_votes>
+			<bottom_line_no_votes>1</bottom_line_no_votes>
+			<customerimages>false</customerimages>
+			<customervideos>true</customervideos>
+			<total_questions>1</total_questions>
+			<total_answers>1</total_answers>
+			<inlinefiles>
+				<inlinefile reviewpage="1">pwr/rr95c366/inline/00/08/46418-en_US-1-reviews.html
+				</inlinefile>
+			</inlinefiles>
+			<inlinequestionfiles>
+				<inlinefile questionpage="1">pwr/rr95c366/inline/00/08/46418-en_US-1-questions.html
+				</inlinefile>
+			</inlinequestionfiles>
+			<reviews>
+				<fullreview>
+					<id>17542491</id>
+					<merchant_review_id>13669467</merchant_review_id>
+					<merchantuserid>38264175</merchantuserid>
+					<status>Approved</status>
+					<createddate>2010-08-06</createddate>
+					<helpfulvotes>1</helpfulvotes>
+					<nothelpfulvotes>1</nothelpfulvotes>
+					<source>email</source>
+					<confirmstatusgroup>
+						<confirmstatus>Verified Purchaser</confirmstatus>
+					</confirmstatusgroup>
+					<headline>Perfect replacement</headline>
+					<overallrating>5</overallrating>
+					<taggroup key="pros" name="Pros">
+						<tag isuseradded="false" count="1">Lightweight</tag>
+						<tag isuseradded="false" count="1">Easy To Use</tag>
+						<tag isuseradded="true" count="1">Replaced OEM perfectly</tag>
+					</taggroup>
+					<taggroup key="bestuses" name="Best Uses">
+						<tag isuseradded="true" count="1">2003 BMW 325i e46</tag>
+					</taggroup>
+					<bottom_line>recommended</bottom_line>
+					<comments>Window regulators on BMW e46 are notorius for failing.
+						This
+						was a cost effective solution that replaced the OEM unit
+						perfectly.
+						No issues at all. Have had it installed for a week and
+						still
+						working
+						great. [...]
+					</comments>
+					<nickname>zQUEz</nickname>
+					<location>Atlanta, GA</location>
+					<email_address_from_merchant>cameron_work@hotmail.com
+					</email_address_from_merchant>
+					<site_id>1</site_id>
+				</fullreview>
+				<fullreview>
+					<id>19921413</id>
+					<merchant_review_id>15414695</merchant_review_id>
+					<merchantuserid>48998296</merchantuserid>
+					<status>Approved</status>
+					<createddate>2010-11-23</createddate>
+					<helpfulvotes>4</helpfulvotes>
+					<nothelpfulvotes>1</nothelpfulvotes>
+					<source>email</source>
+					<confirmstatusgroup>
+						<confirmstatus>Verified Purchaser</confirmstatus>
+						<confirmstatus>Verified Reviewer</confirmstatus>
+					</confirmstatusgroup>
+					<headline>Easy to Install, Exact Fit</headline>
+					<overallrating>5</overallrating>
+					<taggroup key="pros" name="Pros">
+						<tag isuseradded="true" count="1">Exact fit</tag>
+						<tag isuseradded="false" count="1">Easy To Use</tag>
+					</taggroup>
+					<taggroup key="carandtruck" name="Car &amp; Truck">
+						<tag isuseradded="false" count="1">Casual Driver</tag>
+					</taggroup>
+					<taggroup key="cons" name="Cons">
+						<tag isuseradded="true" count="1">None so far</tag>
+					</taggroup>
+					<bottom_line>recommended</bottom_line>
+					<comments>The installation was a breeze and the parts were an exact
+						fit for my 2000 BMW 323i, took about 45 minutes. This part appears
+						to be contructed better than the original part. Save yourself some
+						big $$$ and do this job on your own.
+					</comments>
+					<nickname>Joe</nickname>
+					<location>Arlington, VA</location>
+					<customervideo>
+						<videolocation>http://www.youtube.com/v/x9Q2tfHqcdI
+						</videolocation>
+						<thumbnaillocation>http://i.ytimg.com/vi/x9Q2tfHqcdI/2.jpg
+						</thumbnaillocation>
+						<caption>Video I found to help me through the process.</caption>
+						<taggroup name="Tags">
+							<tag isuseradded="true" count="1">Window</tag>
+							<tag isuseradded="true" count="1">Regulator</tag>
+							<tag isuseradded="true" count="1">BMW</tag>
+							<tag isuseradded="true" count="1">DIY</tag>
+						</taggroup>
+					</customervideo>
+					<customervideo>
+						<videolocation>http://www.youtube.com/v/x9Q2tfHqcdI
+						</videolocation>
+						<thumbnaillocation>http://i.ytimg.com/vi/x9Q2tfHqcdI/2.jpg
+						</thumbnaillocation>
+						<caption>Video I found to help me through the process.</caption>
+						<taggroup name="Tags">
+							<tag isuseradded="true" count="1">Window</tag>
+							<tag isuseradded="true" count="1">Regulator</tag>
+							<tag isuseradded="true" count="1">BMW</tag>
+							<tag isuseradded="true" count="1">DIY</tag>
+						</taggroup>
+					</customervideo>
+					<customerimage>
+						<fullimagelocation>//res.cloudinary.com/powerreviews/image/upload/f_auto,w_1024,h_768/prod/hyeyyxqovxjohsijzoca.jpg
+						</fullimagelocation>
+						<thumbnailimagelocation>/pwr/content/00/00/hyeyyxqovxjohsijzoca_thumbnail.jpg
+						</thumbnailimagelocation>
+						<caption>Dangerous hits the torsion bar</caption>
+						<taggroup name="Tags">
+							<tag isuseradded="false" count="1">Using Product</tag>
+						</taggroup>
+					</customerimage>
+					<customerimage>
+						<fullimagelocation>//res.cloudinary.com/powerreviews/image/upload/f_auto,w_1024,h_768/prod/hzxmtxqknf4tbxvh200c.jpg
+						</fullimagelocation>
+						<thumbnailimagelocation>/pwr/content/00/00/hzxmtxqknf4tbxvh200c_thumbnail.jpg
+						</thumbnailimagelocation>
+						<caption>another angle </caption>
+						<taggroup name="Tags">
+							<tag isuseradded="false" count="1">Using Product</tag>
+						</taggroup>
+					</customerimage>
+					<email_address_from_merchant>walkerjw3514@gmail.com
+					</email_address_from_merchant>
+					<email_address_from_user>walkerjw3514@gmail.com
+					</email_address_from_user>
+					<service_comments>
+						<status>Pending</status>
+						<comments>Delivery was made within two or three days and in
+							perfect
+							condition.
+						</comments>
+					</service_comments>
+					<site_id>1</site_id>
+				</fullreview>
+				<fullreview>
+					<id>20933858</id>
+					<merchant_review_id>16378261</merchant_review_id>
+					<merchantuserid>53925765</merchantuserid>
+					<status>Approved</status>
+					<createddate>2011-01-14</createddate>
+					<helpfulvotes>1</helpfulvotes>
+					<nothelpfulvotes>1</nothelpfulvotes>
+					<source>email</source>
+					<confirmstatusgroup>
+						<confirmstatus>Verified Purchaser</confirmstatus>
+					</confirmstatusgroup>
+					<headline>Better than OEM.</headline>
+					<overallrating>5</overallrating>
+					<taggroup key="pros" name="Pros">
+						<tag isuseradded="true" count="1">Bolts right in</tag>
+					</taggroup>
+					<taggroup key="carandtruck" name="Car &amp; Truck">
+						<tag isuseradded="false" count="1">Auto Enthusiast</tag>
+					</taggroup>
+					<bottom_line>recommended</bottom_line>
+					<comments>This is a really nice aftermarket window regulator. A
+						bought a cheaper one from another online parts seller for about
+						$60
+						but it was a piece of junk. Spend the few extra bucks and get
+						this
+						one. Its well built and fit right in. The piece of junk, that
+						I
+						bought, fought me the whole way thru the install and only lasted
+						3
+						months...then I bought this one, it's far suberb in every way.
+					</comments>
+					<nickname>Marcel</nickname>
+					<location>Naugatuck, CT</location>
+					<email_address_from_merchant>m.lemay@snet.net
+					</email_address_from_merchant>
+					<site_id>1</site_id>
+				</fullreview>
+				<fullreview>
+					<id>26874901</id>
+					<merchant_review_id>20856972</merchant_review_id>
+					<merchantuserid>70152574</merchantuserid>
+					<status>Approved</status>
+					<createddate>2011-09-29</createddate>
+					<helpfulvotes>1</helpfulvotes>
+					<nothelpfulvotes>1</nothelpfulvotes>
+					<source>email</source>
+					<confirmstatusgroup>
+						<confirmstatus>Verified Purchaser</confirmstatus>
+					</confirmstatusgroup>
+					<headline>Regulator replacement.</headline>
+					<overallrating>4</overallrating>
+					<taggroup key="pros" name="Pros">
+						<tag isuseradded="true" count="1">Precise fit</tag>
+						<tag isuseradded="false" count="1">Easy To Use</tag>
+					</taggroup>
+					<taggroup key="wasthisagift" name="Was this a gift?">
+						<tag isuseradded="false" count="1">No</tag>
+					</taggroup>
+					<taggroup key="carandtruck" name="Car &amp; Truck">
+						<tag isuseradded="false" count="1">Casual Driver</tag>
+					</taggroup>
+					<bottom_line>recommended</bottom_line>
+					<comments>Product fit perfectly without any adjustment required.
+					</comments>
+					<nickname>Sam</nickname>
+					<location>Wilmington, NC</location>
+					<email_address_from_merchant>jquery001@ec.rr.com
+					</email_address_from_merchant>
+					<service_comments>
+						<status>Pending</status>
+						<comments>Unit was in stock at local warehouse store.</comments>
+					</service_comments>
+					<site_id>1</site_id>
+				</fullreview>
+				<fullreview>
+					<id>41990044</id>
+					<merchant_review_id>35802450</merchant_review_id>
+					<merchantuserid>178812475</merchantuserid>
+					<status>Approved</status>
+					<createddate>2013-06-15</createddate>
+					<helpfulvotes>1</helpfulvotes>
+					<nothelpfulvotes>1</nothelpfulvotes>
+					<source>email</source>
+					<confirmstatusgroup>
+						<confirmstatus>Verified Purchaser</confirmstatus>
+					</confirmstatusgroup>
+					<headline>Looks solid</headline>
+					<overallrating>5</overallrating>
+					<taggroup key="pros" name="Pros">
+						<tag isuseradded="false" count="1">Durable</tag>
+						<tag isuseradded="false" count="1">Easy To Use</tag>
+					</taggroup>
+					<taggroup key="wasthisagift" name="Was this a gift?">
+						<tag isuseradded="false" count="1">No</tag>
+					</taggroup>
+					<taggroup key="describeyourself" name="Describe Yourself">
+						<tag isuseradded="false" count="1">Auto Enthusiast</tag>
+					</taggroup>
+					<bottom_line>recommended</bottom_line>
+					<comments>Fits perfectly. Easy install.</comments>
+					<nickname>AA</nickname>
+					<location>Webster NY</location>
+					<email_address_from_merchant>aavlasev@gmail.com
+					</email_address_from_merchant>
+					<service_comments>
+						<status>Pending</status>
+						<comments>Was ready for pick up in store as described.</comments>
+					</service_comments>
+					<site_id>1</site_id>
+				</fullreview>
+				<fullreview>
+					<id>43398325</id>
+					<merchant_review_id>37707033</merchant_review_id>
+					<merchantuserid>189307097</merchantuserid>
+					<status>Approved</status>
+					<createddate>2013-08-18</createddate>
+					<helpfulvotes>0</helpfulvotes>
+					<nothelpfulvotes>0</nothelpfulvotes>
+					<source>email</source>
+					<confirmstatusgroup>
+						<confirmstatus>Verified Purchaser</confirmstatus>
+					</confirmstatusgroup>
+					<headline>perfect fit.</headline>
+					<overallrating>4</overallrating>
+					<taggroup key="wasthisagift" name="Was this a gift?">
+						<tag isuseradded="false" count="1">No</tag>
+					</taggroup>
+					<taggroup key="pros" name="Pros">
+						<tag isuseradded="false" count="1">Easy To Use</tag>
+					</taggroup>
+					<taggroup key="describeyourself" name="Describe Yourself">
+						<tag isuseradded="false" count="1">Auto Enthusiast</tag>
+					</taggroup>
+					<bottom_line>recommended</bottom_line>
+					<comments>Perfect.</comments>
+					<nickname>Sfiveten</nickname>
+					<location>Hoover, AL</location>
+					<email_address_from_merchant>sfiveten@hotmail.com
+					</email_address_from_merchant>
+					<service_comments>
+						<status>Pending</status>
+						<comments>Pretty good. They gave me the wrong side to begin
+							with...
+							I noticed before installing. Swapped it out with no
+							issues.
+						</comments>
+					</service_comments>
+					<site_id>1</site_id>
+				</fullreview>
+				<fullreview>
+					<id>91350223</id>
+					<merchant_review_id>162708132</merchant_review_id>
+					<merchantuserid />
+					<status>Approved</status>
+					<createddate>2016-12-31</createddate>
+					<helpfulvotes>0</helpfulvotes>
+					<nothelpfulvotes>0</nothelpfulvotes>
+					<source>web</source>
+					<confirmstatusgroup>
+						<confirmstatus>Verified Reviewer</confirmstatus>
+					</confirmstatusgroup>
+					<headline>1.5 years later.....junk</headline>
+					<overallrating>1</overallrating>
+					<taggroup key="wasthisagift" name="Was this a gift?">
+						<tag isuseradded="false" count="1">No</tag>
+					</taggroup>
+					<bottom_line>not recommended</bottom_line>
+					<comments>After 1.5 years of use, cable jumped off pulley between
+						regulator and motor. Immediate grinding noise as cable lodged
+						between their nylon gear pulley and metal housing.
+					</comments>
+					<nickname>Jason</nickname>
+					<location>Lake Geneva , wi</location>
+					<email_address_from_merchant>jbernardinc@sbcglobal.net
+					</email_address_from_merchant>
+					<email_address_from_user>jbernardinc@sbcglobal.net
+					</email_address_from_user>
+					<extra_info_list>
+						<extra_info>
+							<key>collected</key>
+							<value>User Submitted</value>
+						</extra_info>
+						<extra_info>
+							<key>WriteAReviewSessionId</key>
+							<value>23b244b7-ecb8-4cdb-9867-8e09b3f0a450</value>
+						</extra_info>
+					</extra_info_list>
+					<site_id>1</site_id>
+				</fullreview>
+			</reviews>
+			<questions>
+				<question>
+					<id>836794</id>
+					<date>2012-04-11T19:55:13</date>
+					<type>PRE_SALE</type>
+					<text>Which part number for the passenger front window.. The car is
+						a
+						4 door sedan the site does not describe which side.&#13;
+						&#13;
+						BMW
+						325i sedan 2002 model
+					</text>
+					<answers>
+						<answer>
+							<id>707556</id>
+							<date>2012-04-12T08:40:22</date>
+							<authored_by_expert>true</authored_by_expert>
+							<authored_by_verified_purchaser>false
+							</authored_by_verified_purchaser>
+							<nickname>Vincent</nickname>
+							<location>AAP</location>
+							<text>This Dorman - OE Solutions Power Window Regulator with
+								part#
+								740-485 is a passenger side front power window regulator
+								and this
+								part fits your 2002 BMW 325i.
+							</text>
+						</answer>
+					</answers>
+				</question>
+			</questions>
+		</product>
+	</products>
+</profile>
